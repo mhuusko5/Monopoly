@@ -1,0 +1,210 @@
+g
+GO
+p
+Mediterranean Avenue
+Brown
+60
+50
+2
+10
+c
+Pick a community chest card!
+p
+Baltic Avenue
+Brown
+60
+50
+4
+20
+t
+Income Tax
+200
+r
+Reading Railroad
+Railroad
+200
+50
+p
+Oriental Avenue
+Light Blue
+100
+50
+6
+30
+h
+Take a chance card!
+p
+Vermont Avenue
+Light Blue
+100
+50
+6
+30
+p
+Connecticut Avenue
+Light Blue
+120
+50
+8
+40
+j
+JAIL!
+p
+St. Charles Place
+Purple
+140
+100
+10
+50
+u
+Electric Company
+Utility
+150
+4
+p
+States Avenue
+Purple
+140
+100
+10
+50
+p
+Virginia Avenue
+Purple
+160
+100
+12
+60
+r
+Pennsylvania Railroad
+Railroad
+200
+50
+p
+St. James Place
+Orange
+180
+100
+14
+70
+c
+Take a community chest card!
+p
+Tennessee Avenue
+Orange
+180
+100
+14
+70
+p
+New York Avenue
+Orange
+200
+100
+16
+80
+f
+Free Parking
+p
+Kentucky Avenue
+Red
+220
+150
+18
+90
+h
+Take a chance card!
+p
+Indiana Avenue
+Red
+220
+150
+18
+90
+p
+Illinois Avenue
+Red
+240
+150
+20
+100
+r
+B&O Railroad
+Railroad
+200
+50
+p
+Atlantic Avenue
+Yellow
+260
+150
+22
+110
+p
+Ventor Avenue
+Yellow
+260
+150
+22
+110
+u
+Water Works
+Utility
+150
+4
+p
+Marvin Gardens
+Yellow
+280
+150
+24
+120
+w
+GO TO JAIL!
+p
+Pacific Avenue
+Green
+300
+200
+26
+130
+p
+North Carolina Avenue
+Green
+300
+200
+26
+130
+c
+Take a community chest card!
+p
+Pennsylvania Avenue
+Green
+320
+200
+28
+150
+r
+Short Line
+Railroad
+200
+50
+h
+Take a chance card!
+p
+Park Place
+Dark Blue
+350
+200
+35
+175
+t
+Pay Luxury Tax!
+75 
+p
+Board Walk
+Dark Blue
+400
+200
+50
+200

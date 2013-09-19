@@ -1,0 +1,125 @@
+h
+Advance to Go (Collect $200)
+3
+0
+1
+h
+Advance to Illinois Ave.
+3
+0
+25
+h
+Advance to St. Charles Place, if you pass Go, collect $200
+3
+0
+12
+h
+Bank pays you dividend of $50
+1
+50
+0
+h
+Get out of Jail free, this card may be kept until needed, or traded 
+4
+0
+0
+h
+Speeding Fine $15
+1
+15
+0
+h
+Advance to Boardwalk
+3
+0
+0
+h
+You have been elected chairman of the board, pay each player $50 
+2
+-50
+0
+h
+You have won a crossword competition - collect $100
+1
+100
+0
+h
+Your building loan matures, collect $150
+1
+150
+0
+c
+Advance to Go (Collect $200)
+3
+0
+1
+c
+Bank error in your favor, collect $75 
+1
+75
+0
+c
+Doctor's fees, Pay $50
+1
+-50
+0
+c
+Get out of jail free, this card may be kept until needed
+4
+0
+0
+c
+Go to jail, go directly to jail – Do not pass Go, do not collect $200 
+3
+0
+11
+c
+It is your birthday Collect $10 from each player
+2
+10
+0
+c
+Income Tax refund, collect $40
+1
+40
+0
+c
+Life Insurance Matures, collect $100 
+1
+100
+0
+c
+Pay Hospital Fees of $100 
+1
+-100
+0
+c
+Pay School Fees of $50
+1
+-50
+0
+c
+Receive $25 Consultancy Fee
+1
+25
+0
+c
+You have won second prize in a beauty contest– collect $10
+1
+10
+0
+c
+You inherit $100
+1
+100
+0
+c
+From sale of stock you get $50 
+1
+50
+0
+c
+Holiday Fund matures - Receive $100
+1
+100
+0
